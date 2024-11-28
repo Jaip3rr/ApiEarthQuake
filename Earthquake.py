@@ -1,4 +1,4 @@
-#Kevin Jesús Martin López Doblado
+#José Adrián Terrones Pérez
 import requests
 from datetime import datetime
 import tkinter as tk
